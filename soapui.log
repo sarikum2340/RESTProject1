@@ -1,0 +1,311 @@
+2020-11-18 17:15:04,515 WARN  [SoapUI] Missing folder [C:\Users\SaritaKumari\RestProject1\RestProject1\ext] for external libraries
+2020-11-18 17:15:04,693 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\SaritaKumari\soapui-settings.xml]
+2020-11-18 17:15:05,857 INFO  [WsdlProject] Loaded project from [file:/C:/Users/SaritaKumari/RestProject1/RestProject1/RestProject-soapui-project.xml]
+2020-11-18 17:15:06,252 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2020-11-18 17:15:06,253 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2020-11-18 17:15:06,281 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Count]
+2020-11-18 17:15:06,389 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [RestProject]
+2020-11-18 17:15:06,392 INFO  [SoapUITestCaseRunner] Running Project [RestProject], runType = SEQUENTIAL
+2020-11-18 17:15:06,411 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [[TC_001]TestGetAccessToken]
+2020-11-18 17:15:06,456 INFO  [SoapUITestCaseRunner] running step [Save Access token]
+2020-11-18 17:15:06,769 INFO  [log] Basic dXBza2lsbHNfcmVzdF9hZG1pbl9vYXV0aF9jbGllbnQ6dXBza2lsbHNfcmVzdF9hZG1pbl9vYXV0aF9zZWNyZXQ=
+2020-11-18 17:15:06,798 INFO  [SoapUITestCaseRunner] running step [AccessToken]
+2020-11-18 17:15:08,859 INFO  [log] Access token is: 9bf90fe96f622532547cee856ee139a29b657f4b
+2020-11-18 17:15:08,865 INFO  [log] Test Pass
+2020-11-18 17:15:08,870 INFO  [SoapUITestCaseRunner] Assertion [Status Code Assertion] has status VALID
+2020-11-18 17:15:08,871 INFO  [SoapUITestCaseRunner] Assertion [Response body assertion] has status VALID
+2020-11-18 17:15:08,872 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [[TC_001]TestGetAccessToken], time taken: 1888ms, status: FINISHED
+2020-11-18 17:15:08,876 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [[TC_002]Login]
+2020-11-18 17:15:08,884 INFO  [SoapUITestCaseRunner] running step [GetLoginData]
+2020-11-18 17:15:09,448 INFO  [log] 2
+2020-11-18 17:15:09,461 INFO  [log] upskills_admin
+2020-11-18 17:15:09,464 INFO  [log] Talent4$$
+2020-11-18 17:15:09,524 INFO  [SoapUITestCaseRunner] running step [LoginDetail]
+2020-11-18 17:15:09,543 INFO  [SoapUITestCaseRunner] running step [Login]
+2020-11-18 17:15:11,541 INFO  [log] Test Case Pass
+2020-11-18 17:15:11,542 INFO  [SoapUITestCaseRunner] Assertion [Http response code] has status VALID
+2020-11-18 17:15:11,552 INFO  [SoapUITestCaseRunner] running step [GetAdminDetail]
+2020-11-18 17:15:11,944 INFO  [log] Test Case Pass
+2020-11-18 17:15:11,946 INFO  [SoapUITestCaseRunner] Assertion [Http response code] has status VALID
+2020-11-18 17:15:11,953 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [[TC_002]Login], time taken: 2971ms, status: FINISHED
+2020-11-18 17:15:11,965 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [[TC_009]Customer]
+2020-11-18 17:15:11,968 INFO  [SoapUITestCaseRunner] running step [getCustomerId]
+2020-11-18 17:15:12,029 INFO  [log] 4341899f-4a92-4de0-bb43-eddaa9f4c01a
+2020-11-18 17:15:12,044 INFO  [log] test1236587496@yahooooo.com
+2020-11-18 17:15:12,048 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:12,050 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:12,050 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:12,560 INFO  [log] 3467
+2020-11-18 17:15:12,565 INFO  [log] 6669ecc8-02e6-46a6-8aaa-9028fb1e563b
+2020-11-18 17:15:12,566 INFO  [log] test1233837232@yahooooo.com
+2020-11-18 17:15:12,567 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:12,574 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:12,575 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:12,941 INFO  [log] 3468
+2020-11-18 17:15:12,943 INFO  [log] e4fb7f9a-ccaf-417d-b48c-afab10884a68
+2020-11-18 17:15:12,946 INFO  [log] test1236213136@yahooooo.com
+2020-11-18 17:15:12,948 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:12,948 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:12,949 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:13,339 INFO  [log] 3469
+2020-11-18 17:15:13,341 INFO  [log] ddfd4b4f-83a2-4e2d-8094-097c9691a109
+2020-11-18 17:15:13,342 INFO  [log] test1235702822@yahooooo.com
+2020-11-18 17:15:13,344 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:13,346 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:13,349 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:13,745 INFO  [log] 3470
+2020-11-18 17:15:13,747 INFO  [log] 6f146952-36b7-4b27-bc06-3d8adc0b3d43
+2020-11-18 17:15:13,748 INFO  [log] test1239609714@yahooooo.com
+2020-11-18 17:15:13,750 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:13,754 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:13,755 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:14,164 INFO  [log] 3471
+2020-11-18 17:15:14,165 INFO  [log] f61f9ab2-1e06-40ae-89b1-341ffcf1c78d
+2020-11-18 17:15:14,165 INFO  [log] test1236646924@yahooooo.com
+2020-11-18 17:15:14,166 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:14,167 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:14,168 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:14,535 INFO  [log] 3472
+2020-11-18 17:15:14,536 INFO  [log] d8a81388-fec2-473b-927e-78329fe66162
+2020-11-18 17:15:14,536 INFO  [log] test1231273181@yahooooo.com
+2020-11-18 17:15:14,551 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:14,558 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:14,559 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:14,938 INFO  [log] 3473
+2020-11-18 17:15:14,939 INFO  [log] 815726db-dc92-45fd-ad8d-4825679d12c1
+2020-11-18 17:15:14,940 INFO  [log] test1235107477@yahooooo.com
+2020-11-18 17:15:14,941 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:14,942 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:14,942 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:15,348 INFO  [log] 3474
+2020-11-18 17:15:15,349 INFO  [log] b5f5e788-ffd6-47b1-a702-6c2989ba0ae7
+2020-11-18 17:15:15,349 INFO  [log] test1238979207@yahooooo.com
+2020-11-18 17:15:15,350 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:15,350 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:15,351 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:15,740 INFO  [log] 3475
+2020-11-18 17:15:15,746 INFO  [log] a880f79a-2c75-4ae7-a076-32baf2714428
+2020-11-18 17:15:15,753 INFO  [log] test1235994543@yahooooo.com
+2020-11-18 17:15:15,754 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:15,755 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:15,756 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:16,169 INFO  [log] 3476
+2020-11-18 17:15:16,170 INFO  [SoapUITestCaseRunner] running step [Delay]
+2020-11-18 17:15:17,178 INFO  [SoapUITestCaseRunner] running step [Email]
+2020-11-18 17:15:17,180 INFO  [SoapUITestCaseRunner] running step [tracking_id]
+2020-11-18 17:15:17,184 INFO  [SoapUITestCaseRunner] running step [waitForEmailAndTracking]
+2020-11-18 17:15:18,193 INFO  [SoapUITestCaseRunner] running step [Add Customer]
+2020-11-18 17:15:18,645 INFO  [SoapUITestCaseRunner] Assertion [Https Response code] has status VALID
+2020-11-18 17:15:18,647 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:19,081 INFO  [log] Test Case Pass
+2020-11-18 17:15:19,086 INFO  [SoapUITestCaseRunner] Assertion [Http response code] has status VALID
+2020-11-18 17:15:19,087 INFO  [SoapUITestCaseRunner] running step [DeleteCustomer]
+2020-11-18 17:15:19,536 INFO  [log] Test Case Pass
+2020-11-18 17:15:19,537 INFO  [SoapUITestCaseRunner] Assertion [Http response code] has status VALID
+2020-11-18 17:15:19,540 INFO  [SoapUITestCaseRunner] running step [getCustomerStatusCodeAndstoreINProperty]
+2020-11-18 17:15:19,595 INFO  [log] bearer 9bf90fe96f622532547cee856ee139a29b657f4b
+2020-11-18 17:15:19,786 INFO  [log] 11
+2020-11-18 17:15:19,791 INFO  [log] 2371
+2020-11-18 17:15:19,804 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2371
+2020-11-18 17:15:20,538 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":2371,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"sarita155.9@vipmail..hu","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"15\/11\/2020","addresses":[{"address_id":"1070","customer_id":"2371","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"2371","company":"company","website":"http:\/\/demo.com","tracking":"483.5","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-15 08:45:38"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":0,"transaction_total":"₹0.00"}}
+2020-11-18 17:15:20,546 INFO  [log] 200
+2020-11-18 17:15:20,547 INFO  [log] 2372
+2020-11-18 17:15:20,547 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2372
+2020-11-18 17:15:20,908 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":2372,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"sarita557.7@vipmail..hu","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"15\/11\/2020","addresses":[{"address_id":"1071","customer_id":"2372","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"2372","company":"company","website":"http:\/\/demo.com","tracking":"316.6","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-15 08:45:38"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":0,"transaction_total":"₹0.00"}}
+2020-11-18 17:15:20,913 INFO  [log] 200
+2020-11-18 17:15:20,914 INFO  [log] 2373
+2020-11-18 17:15:20,915 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2373
+2020-11-18 17:15:21,324 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":2373,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"sarita752.2@vipmail..hu","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"15\/11\/2020","addresses":[{"address_id":"1072","customer_id":"2373","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"2373","company":"company","website":"http:\/\/demo.com","tracking":"199.0","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-15 08:45:40"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":0,"transaction_total":"₹0.00"}}
+2020-11-18 17:15:21,339 INFO  [log] 200
+2020-11-18 17:15:21,340 INFO  [log] 2458
+2020-11-18 17:15:21,342 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2458
+2020-11-18 17:15:21,738 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":2458,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"sarita83.24@vipmail..hu","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"15\/11\/2020","addresses":[{"address_id":"1150","customer_id":"2458","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"2458","company":"company","website":"http:\/\/demo.com","tracking":"631.4","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-15 15:11:31"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":0,"transaction_total":"₹0.00"}}
+2020-11-18 17:15:21,767 INFO  [log] 200
+2020-11-18 17:15:21,771 INFO  [log] 2431
+2020-11-18 17:15:21,772 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2431
+2020-11-18 17:15:22,162 INFO  [log] User is Deleted
+2020-11-18 17:15:22,163 INFO  [log] 404
+2020-11-18 17:15:22,171 INFO  [log] 2420
+2020-11-18 17:15:22,178 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2420
+2020-11-18 17:15:22,850 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":2420,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"sarita433.9@vipmail..hu","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"15\/11\/2020","addresses":[{"address_id":"1112","customer_id":"2420","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"2420","company":"company","website":"http:\/\/demo.com","tracking":"524.7","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-15 14:50:43"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":0,"transaction_total":"₹0.00"}}
+2020-11-18 17:15:22,868 INFO  [log] 200
+2020-11-18 17:15:22,870 INFO  [log] 2377
+2020-11-18 17:15:22,883 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2377
+2020-11-18 17:15:23,258 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":2377,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"sarita480.6@vipmail..hu","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"15\/11\/2020","addresses":[{"address_id":"1076","customer_id":"2377","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"2377","company":"company","website":"http:\/\/demo.com","tracking":"509.4","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-15 08:45:41"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":0,"transaction_total":"₹0.00"}}
+2020-11-18 17:15:23,264 INFO  [log] 200
+2020-11-18 17:15:23,265 INFO  [log] 2378
+2020-11-18 17:15:23,266 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2378
+2020-11-18 17:15:23,617 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":2378,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"sarita315.9@vipmail..hu","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"15\/11\/2020","addresses":[{"address_id":"1077","customer_id":"2378","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"2378","company":"company","website":"http:\/\/demo.com","tracking":"355.2","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-15 08:45:42"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":0,"transaction_total":"₹0.00"}}
+2020-11-18 17:15:23,630 INFO  [log] 200
+2020-11-18 17:15:23,631 INFO  [log] 2379
+2020-11-18 17:15:23,641 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2379
+2020-11-18 17:15:26,512 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":2379,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"sarita749.1@vipmail..hu","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"15\/11\/2020","addresses":[{"address_id":"1078","customer_id":"2379","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"2379","company":"company","website":"http:\/\/demo.com","tracking":"771.8","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-15 08:45:42"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":0,"transaction_total":"₹0.00"}}
+2020-11-18 17:15:26,516 INFO  [log] 200
+2020-11-18 17:15:26,517 INFO  [log] 2380
+2020-11-18 17:15:26,517 INFO  [log] http://rest-api.upskills.in/api/rest_admin/customers/2380
+2020-11-18 17:15:26,868 INFO  [log] User is Deleted
+2020-11-18 17:15:26,869 INFO  [log] 404
+2020-11-18 17:15:26,882 INFO  [SoapUITestCaseRunner] running step [Customer]
+2020-11-18 17:15:26,883 INFO  [SoapUITestCaseRunner] running step [Cutomer responses]
+2020-11-18 17:15:26,885 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [[TC_009]Customer], time taken: 18614ms, status: FINISHED
+2020-11-18 17:15:26,890 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [[TC_010]Customer_Rewards]
+2020-11-18 17:15:26,892 INFO  [SoapUITestCaseRunner] running step [Customer]
+2020-11-18 17:15:26,898 INFO  [SoapUITestCaseRunner] running step [AddCustomerRewards]
+2020-11-18 17:15:26,938 INFO  [log] 3232
+2020-11-18 17:15:26,939 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:27,704 INFO  [log] Test Case Pass
+2020-11-18 17:15:27,705 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:27,819 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:28,239 INFO  [log] Test Case Pass
+2020-11-18 17:15:28,261 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3232,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail055737854931975.041621@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1923","customer_id":"3232","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3232","company":"company","website":"http:\/\/demo.com","tracking":"204.3","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:29:39"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2700","transaction_total":"?0.00"}}
+2020-11-18 17:15:28,281 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1923, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3232, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2700, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3232, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=204.3, bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:29:39, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3232, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail055737854931975.041621@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:28,332 INFO  [log] 2700
+2020-11-18 17:15:28,336 INFO  [log] 3233
+2020-11-18 17:15:28,341 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:28,708 INFO  [log] Test Case Pass
+2020-11-18 17:15:28,709 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:28,828 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:29,204 INFO  [log] Test Case Pass
+2020-11-18 17:15:29,205 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3233,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail36068870808769.7188390@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1924","customer_id":"3233","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3233","company":"company","website":"http:\/\/demo.com","tracking":"174.3","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:29:39"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2700","transaction_total":"?0.00"}}
+2020-11-18 17:15:29,239 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1924, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3233, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2700, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3233, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=174.3, bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:29:39, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3233, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail36068870808769.7188390@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:29,282 INFO  [log] 2700
+2020-11-18 17:15:29,283 INFO  [log] 3234
+2020-11-18 17:15:29,284 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:29,665 INFO  [log] Test Case Pass
+2020-11-18 17:15:29,667 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:29,771 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:30,199 INFO  [log] Test Case Pass
+2020-11-18 17:15:30,201 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3234,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail511546367947176.114480@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1925","customer_id":"3234","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3234","company":"company","website":"http:\/\/demo.com","tracking":"798.0","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:29:40"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2700","transaction_total":"?0.00"}}
+2020-11-18 17:15:30,228 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1925, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3234, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2700, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3234, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=798.0, bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:29:40, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3234, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail511546367947176.114480@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:30,240 INFO  [log] 2700
+2020-11-18 17:15:30,241 INFO  [log] 3235
+2020-11-18 17:15:30,242 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:30,598 INFO  [log] Test Case Pass
+2020-11-18 17:15:30,599 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:30,703 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:31,082 INFO  [log] Test Case Pass
+2020-11-18 17:15:31,083 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3235,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail698995229019404.081730@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1926","customer_id":"3235","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3235","company":"company","website":"http:\/\/demo.com","tracking":"258.4","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:29:40"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2700","transaction_total":"?0.00"}}
+2020-11-18 17:15:31,089 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1926, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3235, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2700, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3235, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=258.4, bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:29:40, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3235, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail698995229019404.081730@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:31,106 INFO  [log] 2700
+2020-11-18 17:15:31,107 INFO  [log] 3236
+2020-11-18 17:15:31,109 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:31,547 INFO  [log] Test Case Pass
+2020-11-18 17:15:31,552 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:31,670 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:32,095 INFO  [log] Test Case Pass
+2020-11-18 17:15:32,096 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3236,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail745840919499817.045014@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1927","customer_id":"3236","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3236","company":"company","website":"http:\/\/demo.com","tracking":"324.6","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:29:41"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2700","transaction_total":"?0.00"}}
+2020-11-18 17:15:32,118 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1927, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3236, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2700, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3236, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=324.6, bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:29:41, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3236, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail745840919499817.045014@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:32,129 INFO  [log] 2700
+2020-11-18 17:15:32,129 INFO  [log] 3297
+2020-11-18 17:15:32,130 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:32,501 INFO  [log] Test Case Pass
+2020-11-18 17:15:32,503 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:32,620 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:34,716 INFO  [log] Test Case Pass
+2020-11-18 17:15:34,717 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3297,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail7207781663.844415behbi@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1988","customer_id":"3297","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3297","company":"company","website":"http:\/\/demo.com","tracking":"532.0","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:41:06"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2600","transaction_total":"?0.00"}}
+2020-11-18 17:15:34,741 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1988, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3297, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2600, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3297, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=532.0, bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:41:06, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3297, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail7207781663.844415behbi@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:34,769 INFO  [log] 2600
+2020-11-18 17:15:34,770 INFO  [log] 3298
+2020-11-18 17:15:34,770 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:35,151 INFO  [log] Test Case Pass
+2020-11-18 17:15:35,153 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:35,270 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:35,645 INFO  [log] Test Case Pass
+2020-11-18 17:15:35,646 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3298,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail4806611885.676242dggdi@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1989","customer_id":"3298","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3298","company":"company","website":"http:\/\/demo.com","tracking":"8478.","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:41:07"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2600","transaction_total":"?0.00"}}
+2020-11-18 17:15:35,651 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1989, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3298, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2600, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3298, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=8478., bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:41:07, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3298, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail4806611885.676242dggdi@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:35,659 INFO  [log] 2600
+2020-11-18 17:15:35,666 INFO  [log] 3299
+2020-11-18 17:15:35,667 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:36,034 INFO  [log] Test Case Pass
+2020-11-18 17:15:36,035 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:36,140 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:36,544 INFO  [log] Test Case Pass
+2020-11-18 17:15:36,548 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3299,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail5866461133.416495ffcfb@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1990","customer_id":"3299","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3299","company":"company","website":"http:\/\/demo.com","tracking":"6811.","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:41:07"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2600","transaction_total":"?0.00"}}
+2020-11-18 17:15:36,565 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1990, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3299, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2600, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3299, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=6811., bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:41:07, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3299, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail5866461133.416495ffcfb@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:36,588 INFO  [log] 2600
+2020-11-18 17:15:36,590 INFO  [log] 3296
+2020-11-18 17:15:36,591 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:36,951 INFO  [log] Test Case Pass
+2020-11-18 17:15:36,952 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:37,059 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:37,444 INFO  [log] Test Case Pass
+2020-11-18 17:15:37,446 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3296,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail7356341911.852308gghjd@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1987","customer_id":"3296","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3296","company":"company","website":"http:\/\/demo.com","tracking":"2732.","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:41:05"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"2600","transaction_total":"?0.00"}}
+2020-11-18 17:15:37,470 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1987, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3296, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=2600, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3296, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=2732., bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:41:05, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3296, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail7356341911.852308gghjd@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:37,487 INFO  [log] 2600
+2020-11-18 17:15:37,491 INFO  [log] 3295
+2020-11-18 17:15:37,496 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:37,885 INFO  [log] Test Case Pass
+2020-11-18 17:15:37,886 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:37,987 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:38,397 INFO  [log] Test Case Pass
+2020-11-18 17:15:38,402 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3295,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail2462441390.687730cadgf@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1986","customer_id":"3295","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3295","company":"company","website":"http:\/\/demo.com","tracking":"4760.","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:41:03"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"5100","transaction_total":"?0.00"}}
+2020-11-18 17:15:38,420 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1986, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3295, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=5100, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3295, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=4760., bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:41:03, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3295, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail2462441390.687730cadgf@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:38,452 INFO  [log] 5100
+2020-11-18 17:15:38,453 INFO  [SoapUITestCaseRunner] running step [AddRewardsPoints]
+2020-11-18 17:15:38,834 INFO  [log] Test Case Pass
+2020-11-18 17:15:38,836 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-11-18 17:15:38,838 INFO  [SoapUITestCaseRunner] running step [Syncronization]
+2020-11-18 17:15:38,952 INFO  [SoapUITestCaseRunner] running step [CustomerDetails]
+2020-11-18 17:15:39,380 INFO  [log] Test Case Pass
+2020-11-18 17:15:39,383 INFO  [log] {"success":1,"error":[],"data":{"store_id":0,"customer_id":3295,"customer_group_id":2,"firstname":"Demo","lastname":"User","telephone":"1-541-754-3010","email":"useremail2462441390.687730cadgf@rediffmail.com","newsletter":1,"status":1,"approved":"","safe":1,"date_added":"17\/11\/2020","addresses":[{"address_id":"1986","customer_id":"3295","firstname":"Demo","lastname":"User","company":"XYZ LTD.","address_1":"Demo street","address_2":"Long street 33","postcode":"1111","city":"Berlin","zone_id":"1256","zone":"Berlin","zone_code":"BER","country_id":"81","country":"Germany","iso_code_2":"DE","iso_code_3":"DEU","address_format":"{company}\r\n{firstname} {lastname}\r\n{address_1}\r\n{address_2}\r\n{postcode} {city}\r\n{country}","custom_field":{"3":"https:\/\/rest-api.upskills.in"}}],"affiliate":{"customer_id":"3295","company":"company","website":"http:\/\/demo.com","tracking":"4760.","commission":"3.00","tax":"99998888","payment":"paypal","cheque":"Demo","paypal":"demo@demo.com","bank_name":"Bank Name","bank_branch_number":"ABA\/BSB number (Branch Number)","bank_swift_code":"SWIFT Code","bank_account_name":"Account Name","bank_account_number":"Account Number","custom_field":{"1":"custom field"},"status":"1","date_added":"2020-11-17 14:41:03"},"account_custom_field":{"1":"custom field","2":"2"},"custom_fields":[],"reward_points":"5200","transaction_total":"?0.00"}}
+2020-11-18 17:15:39,394 INFO  [log] {data={store_id=0, newsletter=1, firstname=Demo, addresses=[{address_format={company}
+{firstname} {lastname}
+{address_1}
+{address_2}
+{postcode} {city}
+{country}, country=Germany, custom_field={3=https://rest-api.upskills.in}, firstname=Demo, city=Berlin, address_1=Demo street, address_2=Long street 33, address_id=1986, postcode=1111, lastname=User, zone_code=BER, iso_code_2=DE, zone_id=1256, iso_code_3=DEU, zone=Berlin, company=XYZ LTD., customer_id=3295, country_id=81}], custom_fields=[], telephone=1-541-754-3010, reward_points=5200, lastname=User, date_added=17/11/2020, approved=, transaction_total=?0.00, safe=1, account_custom_field={1=custom field, 2=2}, customer_id=3295, affiliate={custom_field={1=custom field}, website=http://demo.com, bank_account_number=Account Number, tax=99998888, tracking=4760., bank_swift_code=SWIFT Code, bank_account_name=Account Name, date_added=2020-11-17 14:41:03, bank_name=Bank Name, cheque=Demo, bank_branch_number=ABA/BSB number (Branch Number), company=company, commission=3.00, payment=paypal, customer_id=3295, paypal=demo@demo.com, status=1}, customer_group_id=2, email=useremail2462441390.687730cadgf@rediffmail.com, status=1}, success=1, error=[]}
+2020-11-18 17:15:39,402 INFO  [log] 5200
+2020-11-18 17:15:39,411 INFO  [SoapUITestCaseRunner] Assertion [Http response code] has status VALID
+2020-11-18 17:15:39,411 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-11-18 17:15:39,413 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [[TC_010]Customer_Rewards], time taken: 23025ms, status: FINISHED
+2020-11-18 17:15:39,414 INFO  [SoapUITestCaseRunner] Project [RestProject] finished with status [FINISHED] in 33013ms
